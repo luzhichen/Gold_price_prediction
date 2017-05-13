@@ -1,5 +1,5 @@
 运行环境及依赖：
-Ubuntu16.06
+Ubuntu16.04
 python 2.7
 pandas,numpy,keras,tensorflow,sklearn,talib,random,datetime,json,matplotlib
 
