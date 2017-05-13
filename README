@@ -1,0 +1,10 @@
+运行环境及依赖：
+Ubuntu16.06
+python 2.7
+pandas,numpy,keras,tensorflow,sklearn,talib,random,datetime,json,matplotlib
+
+Preprocess_helper.py包含数据预处理函数
+Prediction_helper.py包含模型训练、回测及结果输出函数
+在命令框中运行run.py文件，预测结果和回测结果集图片将保存在./result/文件夹中
+CNN网络结构及参数保存在./net_conf/文件夹中，训练日志保存在log中
+./data/中包含原始数据
